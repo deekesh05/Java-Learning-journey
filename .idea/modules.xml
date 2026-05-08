@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/02-Operators/02-Operators.iml" filepath="$PROJECT_DIR$/02-Operators/02-Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Conditions/03-Conditions.iml" filepath="$PROJECT_DIR$/03-Conditions/03-Conditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-Loops/04-Loops.iml" filepath="$PROJECT_DIR$/04-Loops/04-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Pattern/05-Pattern.iml" filepath="$PROJECT_DIR$/05-Pattern/05-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Loops/05-Patterns/05-Patterns.iml" filepath="$PROJECT_DIR$/04-Loops/05-Patterns/05-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning-journey.iml" filepath="$PROJECT_DIR$/.idea/java-learning-journey.iml" />
     </modules>
   </component>

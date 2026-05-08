@@ -2,12 +2,6 @@ import java.util.Scanner;
 
 public class Patterns {
 
-//    *
-//    * *
-//    * * *
-//    * * * *
-//    * * * * *
-//    Normal Pattern
     public static void normalPattern(int number){
         for(int i = 0;i<number;i++)
         {
