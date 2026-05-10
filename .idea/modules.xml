@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/04-Loops/04-Loops.iml" filepath="$PROJECT_DIR$/04-Loops/04-Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-Pattern/05-Pattern.iml" filepath="$PROJECT_DIR$/05-Pattern/05-Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-Loops/05-Patterns/05-Patterns.iml" filepath="$PROJECT_DIR$/04-Loops/05-Patterns/05-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Functions/06-Functions.iml" filepath="$PROJECT_DIR$/06-Functions/06-Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Array/07-Array.iml" filepath="$PROJECT_DIR$/07-Array/07-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning-journey.iml" filepath="$PROJECT_DIR$/.idea/java-learning-journey.iml" />
     </modules>
   </component>
