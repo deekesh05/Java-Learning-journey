@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-Basics/01-BAsics.iml" filepath="$PROJECT_DIR$/01-Basics/01-BAsics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-OOPS/01-Class-And-Object/01-Class-And-Object.iml" filepath="$PROJECT_DIR$/09-OOPS/01-Class-And-Object/01-Class-And-Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Operators/02-Operators.iml" filepath="$PROJECT_DIR$/02-Operators/02-Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Conditions/03-Conditions.iml" filepath="$PROJECT_DIR$/03-Conditions/03-Conditions.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-Loops/04-Loops.iml" filepath="$PROJECT_DIR$/04-Loops/04-Loops.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/04-Loops/05-Patterns/05-Patterns.iml" filepath="$PROJECT_DIR$/04-Loops/05-Patterns/05-Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-Functions/06-Functions.iml" filepath="$PROJECT_DIR$/06-Functions/06-Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-Array/07-Array.iml" filepath="$PROJECT_DIR$/07-Array/07-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-OOPS/09-OOPS.iml" filepath="$PROJECT_DIR$/09-OOPS/09-OOPS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning-journey.iml" filepath="$PROJECT_DIR$/.idea/java-learning-journey.iml" />
     </modules>
   </component>
