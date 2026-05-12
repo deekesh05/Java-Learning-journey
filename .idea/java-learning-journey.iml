@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/09-OOPS/01-Class-And-Object" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-OOPS/02-Constructor" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-OOPS/03-This-Keyword" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/04-Static-Keyword" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
