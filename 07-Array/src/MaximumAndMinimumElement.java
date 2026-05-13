@@ -11,6 +11,18 @@ public class MaximumAndMinimumElement {
         }
         return max;
     }
+    public  static  int maxElementByForeach(int [] arr)
+    {
+        int max=-1;
+        for(int val : arr)
+        {
+            if(max<val)
+            {
+                max=val;
+            }
+        }
+        return max;
+    }
     public static int minimumElement(int[] arr)
     {
         // For Minimum Element In Array
@@ -31,6 +43,8 @@ public class MaximumAndMinimumElement {
             System.out.print(i + "  ");
         }
         System.out.println();
+
+        System.out.println("Maximum Number in Array :"+ maxElementByForeach(arr) );
         System.out.println("Maximum Number in Array :"+ maxElement(arr) );
         System.out.println("Minimum Number in Array :"+ minimumElement(arr));
 
