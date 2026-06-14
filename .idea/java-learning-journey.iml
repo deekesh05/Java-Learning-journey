@@ -8,6 +8,15 @@
       <sourceFolder url="file://$MODULE_DIR$/09-OOPS/03-This-Keyword" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-OOPS/04-Static-Keyword" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/05-Package-Creation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/06-Inheritence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/07-Abstraction &amp; Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SomeRandomChallenges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/08-Polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/09-ExceptionHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/10-FileHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-Collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-MultiThreading" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
