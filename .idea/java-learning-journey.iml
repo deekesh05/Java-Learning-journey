@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/11-MultiThreading" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/12-Functional Programming" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13-DSA/01-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13-DSA/02-Sorting/01-Basic Sorting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
