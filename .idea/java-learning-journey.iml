@@ -3,25 +3,36 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/01-Class-And-Object" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/02-Constructor" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/03-This-Keyword" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/04-Static-Keyword" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/08-String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/05-Package-Creation" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/06-Inheritence" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/07-Abstraction &amp; Interface" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SomeRandomChallenges" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/08-Polymorphism" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/09-ExceptionHandling" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/09-OOPS/10-FileHandling" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/10-Collections" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/11-MultiThreading" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/12-Functional Programming" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13-DSA/01-Array" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/13-DSA/02-Sorting/01-Basic Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/08-String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/01-Class-And-Object" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/02-Constructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/03-This-Keyword" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/04-Static-Keyword" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/05-Package-Creation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/06-Inheritence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/07-Abstraction &amp; Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/08-Polymorphism" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/09-ExceptionHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/09-OOPS/10-FileHandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/10-Collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/11-MultiThreading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/12-Functional Programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Core-Java/SomeRandomChallenges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA with Java/01-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA with Java/02-Sorting/01-Basic Sorting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA with Java/03-Binary Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JDBC/01-Connection" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
