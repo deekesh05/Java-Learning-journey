@@ -22,6 +22,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DSA with Java/02-Sorting/01-Basic Sorting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DSA with Java/03-Binary Search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JDBC/01-Connection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Projects/Hotel-Reservation-System-JDBC" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
