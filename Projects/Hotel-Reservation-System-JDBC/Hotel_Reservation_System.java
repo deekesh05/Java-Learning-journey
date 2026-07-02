@@ -1,11 +1,41 @@
 import java.sql.*;
 import java.util.Scanner;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
 
 public class Hotel_Reservation_System {
-    private static final String url =  "jdbc:mysql://localhost:3306/Hotel_db";
-    private static final String username = "root";
-    private static final String password = "Dk@8878545059";
+
+    static Properties properties = new Properties();
+    static String url;
+    static String username;
+    static String password;
+
+    static {
+
+        try {
+
+            FileInputStream file = new FileInputStream(
+                    "Projects/Hotel-Reservation-System-JDBC/config.properties"
+            );
+
+            properties.load(file);
+
+            url = properties.getProperty("db.url");
+            username = properties.getProperty("db.username");
+            password = properties.getProperty("db.password");
+
+        }
+        catch (IOException e) {
+            System.out.println("config.properties file not found.");
+            e.printStackTrace();
+        }
+        }
+
+
+
     public static void main(String[] args) {
+        System.out.println(System.getProperty("user.dir"));
         Scanner scanner = new Scanner(System.in);
         //Load Drivers
         try

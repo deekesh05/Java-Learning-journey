@@ -24,7 +24,8 @@
       <sourceFolder url="file://$MODULE_DIR$/JDBC/01-Connection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/Hotel-Reservation-System-JDBC" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JDBC/02-Prepared-Statement" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/JDBC/03-Transaction Handling " isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JDBC/03-Transaction Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JDBC/04-Batch Processing" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">

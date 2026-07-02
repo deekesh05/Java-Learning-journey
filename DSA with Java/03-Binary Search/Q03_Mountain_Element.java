@@ -11,7 +11,8 @@ public class Q03_Mountain_Element {
         while(start<=end)
         {
             int mid = start + (end-start)/2;
-            //if arr[mid]>= arr[mid+1] then got to left side
+            //if arr[mid]>= arr[mid+1] then got to left side because the left elements are smaller then
+            // mountain element
             if(arr[mid]>=arr[mid+1])
             {
                 ans =mid;
