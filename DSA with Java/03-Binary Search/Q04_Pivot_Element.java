@@ -1,6 +1,6 @@
 public class Q04_Pivot_Element {
     public static void main(String[] args) {
-        int[] arr = {50,60,70,10,20,30,40};
+        int[] arr = {4,5,6,7,0,1,2};
         System.out.println("Pivot Index : " + findPivot(arr));
     }
     static int findPivot(int[] arr)
