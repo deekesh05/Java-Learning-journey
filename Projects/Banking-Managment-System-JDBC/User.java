@@ -59,7 +59,7 @@ public class User {
         {
             System.out.println("Invalid Email Address!!!");
         }
-        String query = "SELECT email and password FROM user WHERE email = ?";
+        String query = "SELECT * FROM User WHERE email = ? AND password = ?";
         try
         {
             PreparedStatement checkLogin = connection.prepareStatement(query);
