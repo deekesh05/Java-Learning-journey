@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JDBC/04-Batch Processing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Projects/Banking-Managment-System-JDBC" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DSA with Java/03.01-Binary Search on 2D Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA with Java/04-String" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module-library">
